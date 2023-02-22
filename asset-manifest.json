@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/todo-typescript-redux/static/css/main.fe5393d3.css",
+    "main.js": "/todo-typescript-redux/static/js/main.65feb2ce.js",
+    "index.html": "/todo-typescript-redux/index.html",
+    "main.fe5393d3.css.map": "/todo-typescript-redux/static/css/main.fe5393d3.css.map",
+    "main.65feb2ce.js.map": "/todo-typescript-redux/static/js/main.65feb2ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe5393d3.css",
+    "static/js/main.65feb2ce.js"
+  ]
+}
