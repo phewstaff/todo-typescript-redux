@@ -1,5 +1,5 @@
 {
-  "homepage": "http://phewstaff.github.io/todo-typescript-redux",
+  "homepage": "https://phewstaff.github.io/todo-typescript-redux",
   "name": "todo-typescript-redux",
   "version": "0.1.0",
   "private": true,
@@ -24,7 +24,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build",
+    "deploy": "npm run build && gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
